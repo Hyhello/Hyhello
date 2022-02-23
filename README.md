@@ -1,6 +1,6 @@
-### Hi 我是Hyhello
-
 <img src="https://github-readme-stats.vercel.app/api?username=Hyhello&show_icons=true" align="right">
+
+### Hi 我是Hyhello
 
 ![hyhello badge](https://visitor-badge.glitch.me/badge?page_id=Hyhello.visitor-badge&left_color=red&right_color=green) 
 
