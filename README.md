@@ -2,6 +2,8 @@
 
 ![hyhello badge](https://visitor-badge.glitch.me/badge?page_id=Hyhello.visitor-badge&left_color=red&right_color=green) 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Hyhello&show_icons=true" align="left">
+
 
 **社区主页**  
 
@@ -18,10 +20,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-
-
-[![hyhello's Github stats](https://github-readme-stats.vercel.app/api?username=Hyhello&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
