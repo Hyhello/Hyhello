@@ -4,8 +4,6 @@
 
 ![hyhello badge](https://visitor-badge.glitch.me/badge?page_id=Hyhello.visitor-badge&left_color=red&right_color=green) 
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-
 **社区主页**  
 
 - [掘金](https://juejin.cn/user/2859175301881485)
